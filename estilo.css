@@ -3,7 +3,11 @@
 }
 
 body{
-	background: black;
+	background: white;
 	font-weight: bold;
+}
+
+h2{
+	color: yellow;
 }
 
